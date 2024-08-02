@@ -9,4 +9,4 @@ There are some specific requirements you need to follow when making and proposin
 1. Fork the repository ([fork](https://github.com/MultivetisMc/Terminator/fork));
 2. Create a new branch with a description of the changes you're making (`git checkout -b super-brief-description`);
 3. Make any changes you need, ensuring you add what you've changed in the commit message. If you're making big changes, use multiple commits for clarity (`git commit -a -m "Added 20 animal emoji"`);
-4. Create a pull request into the version branch being worked on and fill out the template provided ([create a pull request](https://github.com/MultivetisMc/Terminator/pulls));
+4. Create a pull request into the version branch being worked on and explain what you have made.
